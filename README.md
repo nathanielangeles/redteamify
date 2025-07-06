@@ -25,7 +25,7 @@
 
 ## 🧰 Usage
 ```bash
-sudo ./setup.sh
+sudo ./RedTeamify.sh
 ```
 
 🛡️ Disclaimer
