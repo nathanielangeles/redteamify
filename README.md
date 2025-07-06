@@ -1,6 +1,6 @@
 # Red Teamify
 
-**Version:** 1.2 0
+**Version:** 1.0
 **Author:** nathanielangeles
 
 > ⚔️ A red team–oriented setup script for quickly configuring Debian-based systems (like Kali, Parrot, or Ubuntu) for offensive security tasks, CTFs, and experimentation. It installs core tools like Docker, Exegol, and offers optional LLM/utility integrations.
