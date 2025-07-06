@@ -150,7 +150,7 @@ function start_docker() {
 	echo -e "${GOOD}Docker is up and running."
 }
 
-# Prepare Exegol wrapper and ask the user if they want to proceed with image installation
+# Prepare Exegol wrapper
 function install_exegol() {
 	local USER=$(logname)
 	local USER_HOME=$(eval echo "~${USER}")
